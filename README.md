@@ -18,5 +18,5 @@
 (ADD description of presentation ppt)
 
 ## Project Diary 
-(ADD description of project diary)
+project-diary.md: Log of project progress (diary).
 
