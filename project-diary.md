@@ -19,4 +19,8 @@ Emma created the github repository and invited members to join as collaborators.
 
 Emma wrote code in R to scrape this website https://www.police.govt.nz/contact-us/stations/district?field_station_district_value=All&title=&postcodenz=&edit-submit-all-police-stations-new=Go and extract the police stations names and addresses.
 
+## 25/09/2023
+
+We discussed our project idea in more detail during the DATA422 lab session. Looking more closely at our data and after talking with the TAs, we realised that the police data may not be specific enough to provide relevant information for our housing prices: the police data is grouped by police district or police area while the housing prices data is grouped by suburb or territorial authorities. We thus decided to shift and look at how other factors such as the number of schools or parks affect the housing prices.
+
 
