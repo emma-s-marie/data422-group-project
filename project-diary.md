@@ -21,6 +21,9 @@ Emma wrote code in R to scrape this website https://www.police.govt.nz/contact-u
 
 ## 25/09/2023
 
-We discussed our project idea in more detail during the DATA422 lab session. Looking more closely at our data and after talking with the TAs, we realised that the police data may not be specific enough to provide relevant information for our housing prices: the police data is grouped by police district or police area while the housing prices data is grouped by suburb or territorial authorities. We thus decided to shift and look at how other factors such as the number of schools or parks affect the housing prices.
+We discussed our project idea in more detail during the DATA422 lab session. Looking more closely at our data and after talking with the TAs, we decided to add additional sources of data, such as the number of school per area.
 
+## 29/09/2023
+
+We had another group meeting and discussed how best to visualise the data. We decided to build an interactive app using R Shiny that allow the user to choose a dataset and display a map (and other graphs) that show the housing prices per region and the number of schools in that region for example.
 
