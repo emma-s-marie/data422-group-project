@@ -27,3 +27,11 @@ We discussed our project idea in more detail during the DATA422 lab session. Loo
 
 We had another group meeting and discussed how best to visualise the data. We decided to build an interactive app using R Shiny that allow the user to choose a dataset and display a map (and other graphs) that show the housing prices per region and the number of schools in that region for example.
 
+## 02/10/2023
+
+We explained our project idea to the tutors during the lab. Their comments prompted us to think about our relational data model as well as the data wrangling that will be required for each dataset we have. After discussing this, we collected all of our readily available data and distributed tasks:
+- Sarah is responsible for scraping the housing data
+- Jacci is reponsible for wrangling the police data
+- Levo is responsible for wrangling the school data
+- Emma is reponsible for wrangling the population data
+
