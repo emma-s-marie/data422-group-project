@@ -1,5 +1,5 @@
 # Project diary
-__(Sarah, Jacci, Levo, Emma (68268218))__
+__(Sarah, Jacci, Levo, Emma)__
 
 ## 18/09/2023
 We had our first group meeting during the DATA422 lab session. We brainstormed/discussed ideas, and browsed different data sources. We decided to find individual ideas and discuss further later in the week.
