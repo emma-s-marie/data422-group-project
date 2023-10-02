@@ -2,7 +2,10 @@
 
 ## Data Sources
 - Crime data for New Zeland
-- Housing prices data of New Zealand Government
+- Housing prices data of New Zealand 
+- Territorial Authorities Shapefile data
+- School directory data
+- Population data 
 (ADD links to data sources)
 
 ## Data Files
