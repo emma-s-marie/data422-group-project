@@ -30,8 +30,15 @@ We had another group meeting and discussed how best to visualise the data. We de
 ## 02/10/2023
 
 We explained our project idea to the tutors during the lab. Their comments prompted us to think about our relational data model as well as the data wrangling that will be required for each dataset we have. After discussing this, we collected all of our readily available data and distributed tasks:
-- Sarah is responsible for scraping the housing data
+- Sarah is responsible for scraping the housing data (Julia)
 - Jacci is reponsible for wrangling the police data
 - Levo is responsible for wrangling the school data
 - Emma is reponsible for wrangling the population data
 
+## 06/10/2023
+
+We had another meeting to look at each others clean data. We then decided to start working on the next steps, where the following tasks were distributed among the members:
+- Start creating the R Shiny app for the visualisation (Emma)
+- Put the relational data model into a nice figure for the report and presentation (Levo)
+- Join and wrangle the data to obtain a 'final' data table (Sarah)
+- Start drafting the report (Jacci)
