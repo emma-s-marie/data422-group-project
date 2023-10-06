@@ -52,6 +52,6 @@ We had another meeting to look at each others clean data. We then decided to sta
 - Start drafting the report (Jacci)
 
 After meeting:
-- Emma has created the 'XXXXX' 
+- Emma has created the R Shiny app with an interactive Leaflet map using the TA shapefile data.
 - Jacci has created the structure of the report
 - Jacci has cleaned the housing data and uploaded to the github
