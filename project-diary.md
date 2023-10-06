@@ -35,6 +35,14 @@ We explained our project idea to the tutors during the lab. Their comments promp
 - Levo is responsible for wrangling the school data
 - Emma is reponsible for wrangling the population data
 
+After meeting:
+- Emma uploaded clean population data to github
+- Levo uploaded clean school data to github
+- Jacci uploaded police data to github
+
+## 04/10/2023
+Sarah faced a challenge in scraping average housing data from the source, Jacci assisted Sarah in finding a solution.
+
 ## 06/10/2023
 
 We had another meeting to look at each others clean data. We then decided to start working on the next steps, where the following tasks were distributed among the members:
@@ -42,3 +50,8 @@ We had another meeting to look at each others clean data. We then decided to sta
 - Put the relational data model into a nice figure for the report and presentation (Levo)
 - Join and wrangle the data to obtain a 'final' data table (Sarah)
 - Start drafting the report (Jacci)
+
+After meeting:
+- Emma has created the 'XXXXX' 
+- Jacci has created the structure of the report
+- 
