@@ -52,8 +52,16 @@ We had another meeting to look at each others clean data. We then decided to sta
 - Start drafting the report (Jacci)
 
 After meeting:
-- Emma has created the R Shiny app with an interactive Leaflet map using the TA shapefile data.
+- Emma has created the basics of the R Shiny app with an interactive Leaflet map using the TA shapefile data.
 - Jacci has created the structure of the report
 - Jacci has cleaned the housing data and uploaded to the GitHub
 - Sarah has cleaned the primary key to maintain consistency across all data
 - Sarah has successfully joined all the data into one table and uploaded it to GitHub
+
+  ## 07/10/2023
+
+Sarah created an additional summary dataframe to be used only for the map of the Shiny app.
+
+Emma joined the TA shape file data to this summary dataframe to create another shape file containing both the geographical data and the data to be displayed by the map.
+
+Emma also worked updated the R Shiny app using this new shapefile and to make the map more interactive.
