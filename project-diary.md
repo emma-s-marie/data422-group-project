@@ -58,10 +58,18 @@ After meeting:
 - Sarah has cleaned the primary key to maintain consistency across all data
 - Sarah has successfully joined all the data into one table and uploaded it to GitHub
 
-  ## 07/10/2023
+## 07/10/2023
 
 Sarah created an additional summary dataframe to be used only for the map of the Shiny app.
 
 Emma joined the TA shape file data to this summary dataframe to create another shape file containing both the geographical data and the data to be displayed by the map.
 
 Emma also worked updated the R Shiny app using this new shapefile and to make the map more interactive.
+
+## 09/10/2023
+
+We discussed the relational data model and the report structure and our presentation. The report tasks were distributed among the members:
+- Introduction + relational data model(Levo)
+- Data sources + collection + techniques employed(Sarah + Jacci)
+- Chanllenges (Emma + Jacci + Sarah)
+- Achievements (to be discussed)
