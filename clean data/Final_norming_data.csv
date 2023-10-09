@@ -1,67 +1,69 @@
-"","Territorial_Authority","Price","Victimisations_Per_10000","School_Per_10000"
-"1","Far North District",700402,391,10
-"2","Whangarei District",736658,391,5
-"3","Kaipara District",818262,217,8
-"4","Auckland",1259185,391,3
-"5","Thames-Coromandel District",1157623,276,7
-"6","Hauraki District",631049,340,10
-"7","Hamilton City",800437,644,3
-"8","Matamata-Piako District",704001,317,8
-"9","Otorohanga District",519134,241,11
-"10","South Waikato District",426624,402,8
-"11","Taupo District",829769,401,5
-"12","Waikato District",726521,274,7
-"13","Waipa District",871229,279,6
-"14","Waitomo District",398629,305,18
-"15","Kawerau District",389679,419,6
-"16","Opotiki District",538485,383,12
-"17","Rotorua District",638234,629,6
-"18","Tauranga City",1017984,404,3
-"19","Western Bay of Plenty District",976065,212,4
-"20","Whakatane District",728386,409,9
-"21","Gisborne District",589585,421,10
-"22","Central Hawke's Bay District",588040,158,11
-"23","Hastings District",765170,399,7
-"24","Napier City",741618,506,5
-"25","Wairoa District",417440,350,15
-"26","New Plymouth District",714371,250,6
-"27","South Taranaki District",437608,333,10
-"28","Stratford District",471430,233,13
-"29","Horowhenua District",551960,400,6
-"30","Manawatu District",612575,268,8
-"31","Palmerston North City",637900,541,5
-"32","Rangitikei District",431086,220,14
-"33","Ruapehu District",369189,321,17
-"34","Tararua District",400978,277,10
-"35","Whanganui District",499207,427,8
-"36","Carterton District",633301,155,6
-"37","Lower Hutt City",768115,485,5
-"38","Kapiti Coast District",805926,252,3
-"39","Porirua City",801428,343,6
-"40","Masterton District",557633,396,7
-"41","South Wairarapa District",766986,197,7
-"42","Upper Hutt City",725534,342,4
-"43","Wellington City",1019077,318,4
-"44","Marlborough District",682993,232,6
-"45","Tasman District",769331,182,6
-"46","Nelson City",783897,311,4
-"47","Buller District",336345,252,9
-"48","Grey District",361677,264,10
-"49","Westland District",394958,153,14
-"50","Hurunui District",624404,137,9
-"51","Kaikoura District",566219,310,12
-"52","Christchurch City",730646,549,4
-"53","Mackenzie District",750518,117,15
-"54","Selwyn District",801054,132,4
-"55","Ashburton District",532157,169,6
-"56","Timaru District",500787,197,6
-"57","Waimakariri District",697534,206,4
-"58","Waimate District",442382,159,11
-"59","Waitaki District",467713,133,9
-"60","Dunedin City",616117,229,6
-"61","Central Otago District",788144,103,6
-"62","Clutha District",392835,154,13
-"63","Queenstown-Lakes District",1670801,175,3
-"64","Gore District",395015,215,9
-"65","Invercargill City",456153,375,5
-"66","Southland District",492354,132,12
+"","Territorial_Authority","Victimisations_Per_10000","Price","School_Per_10000"
+"1","Area Outside Territorial Authority",NA,NA,NA
+"2","Ashburton District",169,532157,6
+"3","Auckland",391,1259185,3
+"4","Buller District",252,336345,9
+"5","Carterton District",155,633301,6
+"6","Central Hawke's Bay District",158,588040,11
+"7","Central Otago District",103,788144,6
+"8","Chatham Islands Territory",88,NA,38
+"9","Christchurch City",549,730646,4
+"10","Clutha District",154,392835,13
+"11","Dunedin City",229,616117,6
+"12","Far North District",391,700402,10
+"13","Gisborne District",421,589585,10
+"14","Gore District",215,395015,9
+"15","Grey District",264,361677,10
+"16","Hamilton City",644,800437,3
+"17","Hastings District",399,765170,7
+"18","Hauraki District",340,631049,10
+"19","Horowhenua District",400,551960,6
+"20","Hurunui District",137,624404,9
+"21","Invercargill City",375,456153,5
+"22","Kaikoura District",310,566219,12
+"23","Kaipara District",217,818262,8
+"24","Kapiti Coast District",252,805926,3
+"25","Kawerau District",419,389679,6
+"26","Lower Hutt City",485,768115,5
+"27","Mackenzie District",117,750518,15
+"28","Manawatu District",268,612575,8
+"29","Marlborough District",232,682993,6
+"30","Masterton District",396,557633,7
+"31","Matamata-Piako District",317,704001,8
+"32","Napier City",506,741618,5
+"33","Nelson City",311,783897,4
+"34","New Plymouth District",250,714371,6
+"35","Opotiki District",383,538485,12
+"36","Otorohanga District",241,519134,11
+"37","Palmerston North City",541,637900,5
+"38","Porirua City",343,801428,6
+"39","Queenstown-Lakes District",175,1670801,3
+"40","Rangitikei District",220,431086,14
+"41","Rotorua District",629,638234,6
+"42","Ruapehu District",321,369189,17
+"43","Selwyn District",132,801054,4
+"44","South Taranaki District",333,437608,10
+"45","South Waikato District",402,426624,8
+"46","South Wairarapa District",197,766986,7
+"47","Southland District",132,492354,12
+"48","Stratford District",233,471430,13
+"49","Tararua District",277,400978,10
+"50","Tasman District",182,769331,6
+"51","Taupo District",401,829769,5
+"52","Tauranga City",404,1017984,3
+"53","Thames-Coromandel District",276,1157623,7
+"54","Timaru District",197,500787,6
+"55","Upper Hutt City",342,725534,4
+"56","Waikato District",274,726521,7
+"57","Waimakariri District",206,697534,4
+"58","Waimate District",159,442382,11
+"59","Waipa District",279,871229,6
+"60","Wairoa District",350,417440,15
+"61","Waitaki District",133,467713,9
+"62","Waitomo District",305,398629,18
+"63","Wellington City",318,1019077,4
+"64","Western Bay of Plenty District",212,976065,4
+"65","Westland District",153,394958,14
+"66","Whakatane District",409,728386,9
+"67","Whanganui District",427,499207,8
+"68","Whangarei District",391,736658,5
