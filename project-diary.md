@@ -69,7 +69,13 @@ Emma also worked updated the R Shiny app using this new shapefile and to make th
 ## 09/10/2023
 
 We discussed the relational data model and the report structure and our presentation. The report tasks were distributed among the members:
-- Introduction + relational data model(Levo)
-- Data sources + collection + techniques employed(Sarah + Jacci)
-- Chanllenges (Emma + Jacci + Sarah)
+- Introduction + relational data model (Levo)
+- Data sources + collection + techniques employed (Sarah + Jacci)
+- Challenges (Emma + Jacci + Sarah)
 - Achievements (to be discussed)
+
+Emma continued working on the R Shiny app.
+
+## 10/10/2023
+
+Emma continued working on the R Shiny app and finished the first prototype to be shown to the other members during the next meeting.
