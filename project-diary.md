@@ -79,3 +79,6 @@ Emma continued working on the R Shiny app.
 ## 10/10/2023
 
 Emma continued working on the R Shiny app and finished the first prototype to be shown to the other members during the next meeting.
+
+## 11/10/2023
+Levo finished the introduction part of report.
