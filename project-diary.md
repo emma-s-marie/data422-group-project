@@ -82,3 +82,4 @@ Emma continued working on the R Shiny app and finished the first prototype to be
 
 ## 11/10/2023
 Levo finished the introduction part of report.
+Jacci finished part of the data wrangling and challenge section in the report.
