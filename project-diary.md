@@ -81,5 +81,8 @@ Emma continued working on the R Shiny app.
 Emma continued working on the R Shiny app and finished the first prototype to be shown to the other members during the next meeting.
 
 ## 11/10/2023
-- Levo finished the introduction part of report.
+- Levo finished the introduction part of the report.
 - Jacci finished part of the data wrangling and challenge section in the report.
+
+## 12/10/2023
+- Sarah started writing the Technique Employed and continued the Data Wrangling section in the report. 
