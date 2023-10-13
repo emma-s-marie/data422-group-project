@@ -81,7 +81,7 @@ Emma continued working on the R Shiny app.
 Emma continued working on the R Shiny app and finished the first prototype.
 
 ## 11/10/2023
-- Levo finished the introduction part of the report.
+- Levo finished the introduction and Normalize the table and join together parts of the report.
 - Jacci finished part of the data wrangling and challenge section in the report.
 - Emma upload the R Shiny app on the repository.
 
