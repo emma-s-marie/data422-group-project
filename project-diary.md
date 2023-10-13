@@ -78,11 +78,16 @@ Emma continued working on the R Shiny app.
 
 ## 10/10/2023
 
-Emma continued working on the R Shiny app and finished the first prototype to be shown to the other members during the next meeting.
+Emma continued working on the R Shiny app and finished the first prototype.
 
 ## 11/10/2023
 - Levo finished the introduction part of the report.
 - Jacci finished part of the data wrangling and challenge section in the report.
+- Emma upload the R Shiny app on the repository.
 
 ## 12/10/2023
-- Sarah started writing the Technique Employed and continued the Data Wrangling section in the report. 
+- Sarah started writing the Technique Employed and continued the Data Wrangling section in the report.
+
+## 13/10/23
+- Emma edited the repository ReadMe file.
+- Emma edited the report, wrote some comments/suggestions, and wrote parts of the Data Wrangling and Challenges section in the report.
