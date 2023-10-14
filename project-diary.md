@@ -81,13 +81,29 @@ Emma continued working on the R Shiny app.
 Emma continued working on the R Shiny app and finished the first prototype.
 
 ## 11/10/2023
-- Levo finished the introduction and Normalize the table and join together parts of the report.
+
+- Levo created the relational data model and finished the introduction and relational data model section of the report.
 - Jacci finished part of the data wrangling and challenge section in the report.
-- Emma upload the R Shiny app on the repository.
+- Emma uploaded the R Shiny app on the repository.
 
 ## 12/10/2023
+
 - Sarah started writing the Technique Employed and continued the Data Wrangling section in the report.
 
 ## 13/10/23
+
 - Emma edited the repository ReadMe file.
 - Emma edited the report, wrote some comments/suggestions, and wrote parts of the Data Wrangling and Challenges section in the report.
+  
+## 14/10/23
+
+We had a group meeting and discussed the presentation structure. The presentation tasks were distributed among the members:
+- Introduction + Data sources (Levo)
+- Relational data model (Jacci)
+- Data wrangling (Sarah)
+- Data visualisations + Conclusion (Emma)
+
+We have completed our draft version of the slides and each person has provided a general overview of our respective sections of the presentation.
+
+After meeting:
+- Jacci added comment to the jupyter notebook code for the housing data and crime data.
