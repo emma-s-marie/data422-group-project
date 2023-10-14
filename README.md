@@ -33,6 +33,9 @@
 - Map_Wrangling.ipynb: Jupyter notebook to join the normalised data to the territorial authority shapefile data (step 7)
 - ui.R, server.R, global.R: files for the R Shiny app
 
+## Relational Data Model
+- Data modeling.png: relational data model
+  
 ## Report
 (ADD description of report document)
 
