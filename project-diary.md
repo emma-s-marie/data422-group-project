@@ -106,4 +106,4 @@ We had a group meeting and discussed the presentation structure. The presentatio
 We have completed our draft version of the slides and each person has provided a general overview of our respective sections of the presentation.
 
 After meeting:
-- Jacci added comment to the jupyter notebook code for the housing data and crime data.
+- Jacci added comment to the jupyter notebook code for the housing data, crime data and normalisation table.
