@@ -24,13 +24,13 @@
 - Final_map.dbf, Final_map-prj, Final_map.shp, Final_map.shx: territorial authorities shape files containing the normalised number of schools and victimisation as well as the average house price for each territorial authority
 
 ## Notebook Code
-- houseprice.ipynb: Jupyter notebook to scrape the house price data (Julia)
-- school data wrangling.ipynb: Jupyter notebook to wrangle the school data
-- crime data wrangling.ipynb: Jupyter notebook to wrangle the crime data
-- Population_Wrangling.ipynb: Jupyter notebook to wrangle the population data
-- Joining all the csv.ipynb: Jupyter notebook that joins the crime, housing price, population and school data together on territorial authority
-- Normalisation Table.ipynb: Jupyter notebook to normalise the crime and school data using the population data (for the map visualisation)
-- Map_Wrangling.ipynb: Jupyter notebook to join the normalised data to the territorial authority shapefile data.
+- houseprice.ipynb: Jupyter notebook to scrape the house price data (Julia) (step 1)
+- school data wrangling.ipynb: Jupyter notebook to wrangle the school data (step 2)
+- crime data wrangling.ipynb: Jupyter notebook to wrangle the crime data (step 3)
+- Population_Wrangling.ipynb: Jupyter notebook to wrangle the population data (step 4)
+- Joining all the csv.ipynb: Jupyter notebook that joins the crime, housing price, population and school data together on territorial authority (step 5)
+- Normalisation Table.ipynb: Jupyter notebook to normalise the crime and school data using the population data (for the map visualisation) (step 6)
+- Map_Wrangling.ipynb: Jupyter notebook to join the normalised data to the territorial authority shapefile data (step 7)
 - ui.R, server.R, global.R: files for the R Shiny app
 
 ## Report
