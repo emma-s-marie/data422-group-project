@@ -112,4 +112,5 @@ After meeting:
 
 ## 15/10/23
 
-Emma added comments to the jupyter notebook code for the population and map wrangling.
+- Emma added comments to the jupyter notebook code for the population and map wrangling.
+- Sarah added comments in the Jupyter notebook code where she standardizes the primary keys for the crime, school, and housing data frames. 
