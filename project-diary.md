@@ -19,6 +19,8 @@ Emma created the github repository and invited members to join as collaborators.
 
 Emma wrote code in R to scrape this website https://www.police.govt.nz/contact-us/stations/district?field_station_district_value=All&title=&postcodenz=&edit-submit-all-police-stations-new=Go and extract the police stations names and addresses.
 
+Sarah combines the monthly regional housing prices from January 2023 to June 2023 and aggregates them to calculate the average housing price over the past six months.
+
 ## 25/09/2023
 
 We discussed our project idea in more detail during the DATA422 lab session. Looking more closely at our data and after talking with the TAs, we decided to add additional sources of data, such as the number of school per area.
