@@ -115,3 +115,4 @@ After meeting:
 - Emma added comments to the jupyter notebook code for the population and map wrangling.
 - Sarah added comments in the Jupyter notebook code where she standardizes the primary keys for the crime, school, and housing data frames. 
 - Jacci created one figure for table join and continued writing part of data wrangling section of the report. And edited the relational data model and data source sections of the report.
+- Levo added comments in the jupyter notebook code for the school data wrangling.
