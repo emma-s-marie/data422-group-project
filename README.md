@@ -40,7 +40,8 @@
 (ADD description of report document)
 
 ## Presentation
-- DATA422 Assignment 3_ Analyzing the Impact of School Count and Crime Rate on Housing Prices in Aotearoa.pdf: presentation slides
+- DATA422 Assignment 3_ Analyzing the Impact of School Count and Crime Rate on Housing Prices in Aotearoa.pdf: PDF presentation slides
+- DATA422 Assignment 3_ Analyzing the Impact of School Count and Crime Rate on Housing Prices in Aotearoa.pptx: PPTX presentation slides
 
 ## Project Diary 
 - project-diary.md: Log of project progress (diary)
