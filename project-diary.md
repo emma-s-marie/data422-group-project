@@ -121,4 +121,4 @@ After meeting:
 
 We presented our project during the tutorial session.
 
-After the tutorial, Emma uploaded the slides to github. We also worked on the report.
+After the tutorial, Emma uploaded the slides, and we all worked on finalising the report.
