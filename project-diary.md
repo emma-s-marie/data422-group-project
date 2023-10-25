@@ -122,3 +122,9 @@ After meeting:
 We presented our project during the tutorial session.
 
 After the tutorial, Emma uploaded the slides, and we all worked on finalising the report.
+
+## 26/10/23
+
+We all proof read the report, and Emma updated the github one last time! Jacci also uploaded the report on LEARN and a link to this repository.
+
+Great work! :)
