@@ -37,7 +37,7 @@
 - Data modeling.png: relational data model
   
 ## Report
-(ADD description of report document)
+- DATA422 Assignment3 Report.pdf: Final project report
 
 ## Presentation
 - DATA422 Assignment 3_ Analyzing the Impact of School Count and Crime Rate on Housing Prices in Aotearoa.pdf: PDF presentation slides
